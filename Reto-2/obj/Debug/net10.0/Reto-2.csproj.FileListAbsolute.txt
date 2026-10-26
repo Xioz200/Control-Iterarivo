@@ -1,0 +1,14 @@
+C:\Users\migue\retosbucle\Reto-2\bin\Debug\net10.0\Reto-2.exe
+C:\Users\migue\retosbucle\Reto-2\bin\Debug\net10.0\Reto-2.deps.json
+C:\Users\migue\retosbucle\Reto-2\bin\Debug\net10.0\Reto-2.runtimeconfig.json
+C:\Users\migue\retosbucle\Reto-2\bin\Debug\net10.0\Reto-2.dll
+C:\Users\migue\retosbucle\Reto-2\bin\Debug\net10.0\Reto-2.pdb
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.AssemblyInfoInputs.cache
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.AssemblyInfo.cs
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.csproj.CoreCompileInputs.cache
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.dll
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\refint\Reto-2.dll
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.pdb
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\Reto-2.genruntimeconfig.cache
+C:\Users\migue\retosbucle\Reto-2\obj\Debug\net10.0\ref\Reto-2.dll
